@@ -8,6 +8,7 @@ WEİGHİNG TİME (Tartım süresi)
 
 
 Özet
+
 İypt 2018 problemlerinden 13.problem olan deneyimizde, kum saatinin içindeki kum hareket halindeyken kum saatinin ağırlığının değişip değişmediğini araştırıp açıklamamız ve bunun hangi sebeplere dayanarak meydana geldiğini öğrenmemiz isteniyor.
 
 Yapacağımız Deney İçin Gerekli Malzemeler
