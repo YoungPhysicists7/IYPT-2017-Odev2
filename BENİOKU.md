@@ -2,7 +2,11 @@ Sınıf	Öğrenci İsmi	Numara
 10-C	Kerem Onay	458
 10-C	Onurcan Ataç	406
 10-C	Buse Ünal	449
+
+
 WEİGHİNG TİME (Tartım süresi)
+
+
 Özet
 İypt 2018 problemlerinden 13.problem olan deneyimizde, kum saatinin içindeki kum hareket halindeyken kum saatinin ağırlığının değişip değişmediğini araştırıp açıklamamız ve bunun hangi sebeplere dayanarak meydana geldiğini öğrenmemiz isteniyor.
 
